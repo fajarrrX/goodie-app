@@ -3,7 +3,7 @@
 This repository is web apps development using React, Express, Postgres.
 
 ## Live demos
-link: `https://goodie-app.herokuapp.com/`
+link: https://goodie-app.herokuapp.com/
 - using account admin: username: admin@mail.com pass: 123456
 - using account owner: username: owner@mail.com pass: 123456
 
